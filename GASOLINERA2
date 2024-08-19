@@ -1,0 +1,13 @@
+tipo:A:10:1.0
+tipo:B:10:1.0
+tipo:C:10:1.0
+tipo:D:15:1.0
+surtidor:D:A:0.0:B:0.0:C:0.0:D:0.0
+surtidor:D:A:0.0:B:0.0:C:0.0:D:0.0
+surtidor:C:A:0.0:B:0.0:C:0.0:D:0.0
+surtidor:C:A:0.0:B:0.0:C:0.0:D:0.0
+empleado:A:0
+empleado:B:0
+empleado:C:0
+empleado:D:0
+empleado:E:0
